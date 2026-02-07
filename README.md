@@ -1,9 +1,9 @@
 # 🎮 Calculadora de Partidas Rankeadas
 
-Projeto desenvolvido como parte do desafio prático da DIO, com o objetivo de aplicar conceitos fundamentais de lógica de programação.
+Projeto desenvolvido como parte do desafio prático da DIO, com o objetivo de aplicar conceitos fundamentais de lógica de programação utilizando Python.
 
-## 🧠 Funcionalidade
-A aplicação calcula o saldo de partidas rankeadas de um jogador com base na quantidade de vitórias e derrotas, e classifica o nível do herói conforme regras pré-definidas.
+## 🧠 Descrição
+A aplicação calcula o saldo de partidas rankeadas de um jogador com base na quantidade de vitórias e derrotas. A partir desse cálculo, o sistema classifica o nível do herói conforme regras pré-definidas no desafio.
 
 ## 📌 Regras de Classificação
 - Menos de 10 vitórias → Ferro  
@@ -15,6 +15,12 @@ A aplicação calcula o saldo de partidas rankeadas de um jogador com base na qu
 - 101 ou mais vitórias → Imortal  
 
 ## 🛠 Tecnologias Utilizadas
-- JavaScript
+- Python
 
-## 📤 Exemplo de Saída
+## 📥 Entrada e 📤 Saída
+
+**Entrada utilizada no exemplo:**
+- Vitórias: 85  
+- Derrotas: 20  
+
+**Saída gerada pelo programa:**
